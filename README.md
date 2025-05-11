@@ -1,9 +1,9 @@
 # Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code
 
-[![Continuous Integration](https://github.com/ikhsan3adi/absensi-sekolah-qr-code/actions/workflows/ci.yml/badge.svg)](https://github.com/ikhsan3adi/absensi-sekolah-qr-code/actions/workflows/ci.yml)
-![GitHub Repo stars](https://img.shields.io/github/stars/ikhsan3adi/absensi-sekolah-qr-code?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/ikhsan3adi/absensi-sekolah-qr-code?style=social)
-![GitHub forks](https://img.shields.io/github/forks/ikhsan3adi/absensi-sekolah-qr-code?style=social)
+[![Continuous Integration](https://github.com/adefennasuryana/absensi-sekolah-qr-code/actions/workflows/ci.yml/badge.svg)](https://github.com/adefennasuryana/absensi-sekolah-qr-code/actions/workflows/ci.yml)
+![GitHub Repo stars](https://img.shields.io/github/stars/adefennasuryana/absensi-sekolah-qr-code?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/adefennasuryana/absensi-sekolah-qr-code?style=social)
+![GitHub forks](https://img.shields.io/github/forks/adefennasuryana/absensi-sekolah-qr-code?style=social)
 ![YouTube Video Views](https://img.shields.io/youtube/views/E1ho6wRBIUs?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DE1ho6wRBIUs)
 ![YouTube Video Likes](https://img.shields.io/youtube/likes/E1ho6wRBIUs?link=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DE1ho6wRBIUs)
 
@@ -24,7 +24,7 @@ Aplikasi Web Sistem Absensi Sekolah Berbasis QR Code adalah sebuah proyek yang b
 - **Tambah, Ubah, Hapus(CRUD) data kelas.**
 - **Lihat, Tambah, Ubah, Hapus(CRUD) data petugas.** (khusus petugas yang login sebagai **`superadmin`**).
 - **Generate Laporan.** Generate laporan dalam bentuk pdf.
-- **Import Banyak Siswa.** Menggunakan CSV delimiter koma (,), Contoh: [CSV](https://github.com/ikhsan3adi/absensi-sekolah-qr-code/blob/141ef728f01b14b89b43aee2c0c38680b0b60528/public/assets/file/csv_siswa_example.csv).
+- **Import Banyak Siswa.** Menggunakan CSV delimiter koma (,), Contoh: [CSV](https://github.com/adefennasuryana/absensi-sekolah-qr-code/blob/141ef728f01b14b89b43aee2c0c38680b0b60528/public/assets/file/csv_siswa_example.csv).
 
 > [!NOTE]
 >
@@ -154,14 +154,6 @@ Jangan lupa beri star ya...⭐⭐⭐
 
 Kami menerima kontribusi dari komunitas terbuka untuk meningkatkan aplikasi ini. Jika Anda menemukan masalah, bug, atau memiliki saran untuk peningkatan, silakan buat issue baru dalam repositori ini atau ajukan pull request.
 
-## Donasi ❤
-
-[![Donate saweria](https://img.shields.io/badge/Donate-Saweria-red?style=for-the-badge&link=https%3A%2F%2Fsaweria.co%2Fxiboxann)](https://saweria.co/xiboxann)
-
-## Lisensi
-
-[![GitHub license](https://img.shields.io/github/license/ikhsan3adi/absensi-sekolah-qr-code?style=for-the-badge)](./LICENSE)
-
 ## Authors
 
-- [@ikhsan3adi](https://www.github.com/ikhsan3adi)
+- [@adefennasuryana](https://www.github.com/adefennasuryana)
